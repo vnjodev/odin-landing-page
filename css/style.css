@@ -111,5 +111,55 @@ nav a {
     margin-top: 30px;
 }
 
+/* random section */
+
+#random-info-section {
+   text-align: center;
+    margin-top: 40px;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.information-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    margin: 40px 120px;
+}
+
+.item-info {
+    max-width: 200px;
+}
+
+.info-box {
+    display: flex;
+    border: 5px solid;
+    border-color: #3882f6;
+    height: 200px;
+    width: 200px;
+    max-width: 200px;
+    border-radius: 10%;
+}
+
+.info-text {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 32px;
+}
 
 
+
+
+
+
+/* footer */
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    left: 0;
+    height: 60px;
+}
