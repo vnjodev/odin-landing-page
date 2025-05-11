@@ -148,6 +148,29 @@ nav a {
     margin-bottom: 32px;
 }
 
+/* quote styling */
+
+#quote-container {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 240px;
+}
+
+#quote-text {
+    color: #1f2937;
+    display: flex;
+    font-style: italic;
+    font-size: 36px;
+}
+
+#quote-author {
+    display: flex;
+    font-weight: bold;
+    margin: 12px auto 12px 80%;
+    font-size: 18px;
+}
+
 
 
 
